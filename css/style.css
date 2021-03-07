@@ -1,0 +1,75 @@
+@media only screen and (min-width: 360px) {
+    h1 , h3 , h5 {
+        font-size: 25px;
+    }
+  }
+.container .navbar {
+    width: 100%;
+}
+.logo {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a:hover {
+    text-decoration: none;
+}
+a {
+    color: black;
+}
+.bg-dark {
+    background-color: rgb(199, 192, 192) !important;
+}
+.menu {
+    margin-bottom: 30px;
+}
+.img-full-width {
+    width: 100%;
+    margin: 55px 0;
+}
+.card-1 {
+    padding: 0px 110px;
+    text-align: justify;
+}
+.card-body p {
+    text-align: justify;
+}
+.selection {
+    margin: 0 90px;
+}
+.selection h3 {
+    opacity: 0.3;
+    font-size: 20px;
+}
+.selection h1,h3 {
+    padding: 20px 0;
+}
+span {
+    opacity: 0.3;
+}
+.card-img-top {
+    margin: 10px 0;
+}
+.card-body .card-title {
+    padding: 30px 0;
+    font-size: 35px;;
+}
+.card {
+    border: none;
+}
+.card .box {
+    background-color: rgb(214, 205, 205) ;
+    margin: 50px 0;
+}
+.card .box .card-title {
+    margin: 0;
+}
+.text-center button{
+    margin: 50px 0;
+    /* background-color: white; */
+}
+.row1 {
+    margin: 0;
+    padding: 0;
+    color: black;
+    background-color: thistle;
+}
